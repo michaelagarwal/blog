@@ -1,0 +1,4 @@
+baseURL = 'https://michaelagarwal.github.io/'
+languageCode = 'en-us'
+title = 'Cloud, DevOps, Databases and AI with Michael'
+theme = 'lightbi-hugo'

@@ -1,0 +1,7 @@
+[submodule "michaelagarwal/themes/lightbi-hugo"]
+	path = michaelagarwal/themes/lightbi-hugo
+	url = https://github.com/binokochumolvarghese/lightbi-hugo
+[submodule "michaelagarwal/public"]
+	path = michaelagarwal/public
+	url = https://github.com/michaelagarwal/michaelagarwal.github.io.git
+	branch = main
