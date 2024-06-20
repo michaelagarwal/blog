@@ -34,14 +34,14 @@ gcse = false
 lastmod = false
 rss = false
 pagination = "10"
-hideAuthor = true
+hideAuthor = false
 description="Your can add your website description here."
 previewCardImagePlacement = "bottom"
 
 [Params.Author]
-  name = "Bino Kochumol Varghese"
-  website = "https://www.binovarghese.com/"
-  authorInfo = "She was born to be free, let her run wild in her own way and you will never lose her."
+  name = "Michael Pankaj Agarwal"
+  website = "https://www.michaelagarwal.com/"
+  authorInfo = "TBD"
   authorPostImage = "/img/author-post-img.jpg"
 
 [Author]
